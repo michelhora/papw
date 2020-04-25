@@ -18,10 +18,8 @@
 	<properties>
 		<java.version>1.8</java.version>
 		<sonar.projectKey>papw</sonar.projectKey>
-		<sonar.organization>rodrigofujioka</sonar.organization>
-		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
-		<sonar.login>b372b734a4ee72cf170d1b181db6474c5d7f1844</sonar.login>
-
+  		<sonar.host.url>http://localhost:9000</sonar.host.url>
+	  	<sonar.login>b3fe9ec470f940ef0efbd1ea678f30025d77027c</sonar.login>
 	</properties>
 
 	<dependencies>
